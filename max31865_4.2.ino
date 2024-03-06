@@ -12,6 +12,8 @@
 
   Written by Limor Fried/Ladyada for Adafruit Industries.  
   BSD license, all text above must be included in any redistribution
+
+  Modified by James Powell
  ****************************************************/
 
 #include <Adafruit_MAX31865.h>
